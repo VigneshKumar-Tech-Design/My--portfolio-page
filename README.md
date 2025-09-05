@@ -26,6 +26,8 @@ The site is designed to be **modern, responsive, and interactive**, with smooth 
 ---
 
 ## 📂 Project Structure
+
+```
 portfolio-page/
 ├── public/ # Static assets
 ├── src/ # Source code
@@ -36,7 +38,7 @@ portfolio-page/
 ├── package.json # Dependencies & scripts
 ├── vite.config.js # Vite configuration
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚡ Getting Started
